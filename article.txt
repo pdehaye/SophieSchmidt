@@ -1,10 +1,10 @@
 
 
-This article is the subject of separate legal complaints on behalf of Cambridge Analytica LLC and SCL Elections Limited, and Sophie Schmidt. 
+This article is the subject of legal complaints on behalf of Cambridge Analytica LLC and SCL Elections Limited.
 
 “The connectivity that is the heart of globalisation can be exploited by states with hostile intent to further their aims.[…] The risks at stake are profound and represent a fundamental threat to our sovereignty.” Alex Younger, head of MI6, December, 2016 
 “It’s not MI6’s job to warn of internal threats. It was a very strange speech. Was it one branch of the intelligence services sending a shot across the bows of another? Or was it pointed at Theresa May’s government? Does she know something she’s not telling us?”Senior intelligence analyst, April 2017
-In June 2013, a young American postgraduate called Sophie was passing through London when she was called up by the boss of a firm where she’d previously interned. The company, SCL Elections, went on to be bought by Robert Mercer, a secretive hedge fund billionaire, renamed Cambridge Analytica, and achieved a certain notoriety as the data analytics firm that played a role in both Trump and Brexit campaigns. But all of this was still to come. London in 2013 was still basking in the afterglow of the Olympics. Britain had not yet Brexited. The world had not yet turned.
+In January 2013, a young American postgraduate was passing through London when she was called up by the boss of a firm where she’d previously interned. The company, SCL Elections, went on to be bought by Robert Mercer, a secretive hedge fund billionaire, renamed Cambridge Analytica, and achieved a certain notoriety as the data analytics firm that played a role in both Trump and Brexit campaigns. But all of this was still to come. London in 2013 was still basking in the afterglow of the Olympics. Britain had not yet Brexited. The world had not yet turned.
 
 
 
@@ -29,13 +29,10 @@ Read more
 “That was before we became this dark, dystopian data company that gave the world Trump,” a former Cambridge Analytica employee who I’ll call Paul tells me. “It was back when we were still just a psychological warfare firm.”
 Was that really what you called it, I ask him. Psychological warfare? “Totally. That’s what it is. Psyops. Psychological operations – the same methods the military use to effect mass sentiment change. It’s what they mean by winning ‘hearts and minds’. We were just doing it to win elections in the kind of developing countries that don’t have many rules.”
 Why would anyone want to intern with a psychological warfare firm, I ask him. And he looks at me like I am mad. “It was like working for MI6. Only it’s MI6 for hire. It was very posh, very English, run by an old Etonian and you got to do some really cool things. Fly all over the world. You were working with the president of Kenya or Ghana or wherever. It’s not like election campaigns in the west. You got to do all sorts of crazy shit.”
-On that day in January 2013, Sophie met up with SCL’s chief executive, Alexander Nix, and gave him the germ of an idea. “She said, ‘You really need to get into data.’ She really drummed it home to Alexander. And she mentioned to him a firm that belonged to someone she knew about through her father.”
-Who’s her father?
-“Eric Schmidt.”
-Eric Schmidt – the chairman of Google?”
+On that day in January 2013, the intern met up with SCL’s chief executive, Alexander Nix, and gave him the germ of an idea. “She said, ‘You really need to get into data.’ She really drummed it home to Alexander. And she mentioned to him a firm that belonged to someone she knew about through her father.”
 I had been speaking to former employees of Cambridge Analytica for months and heard dozens of hair-raising stories, but it was still a gobsmacking moment. To anyone concerned about surveillance, Palantir is practically now a trigger word. The data-mining firm has contracts with governments all over the world – including GCHQ and the NSA. It’s owned by Peter Thiel, the billionaire co-founder of PayPal and major investor in Facebook, who became Silicon Valley’s first vocal supporter of Trump.
-In some ways, Eric Schmidt’s daughter showing up and referring to Palantir is just another weird detail in the weirdest story I have ever researched.
-A weird but telling detail. Because it goes to the heart of why the story of Cambridge Analytica is one of the most profoundly unsettling of our time. Sophie Schmidt now works for another Silicon Valley megafirm: Uber. And what’s clear is that the power and dominance of the Silicon Valley – Google and Facebook and a small handful of others – are at the centre of the global tectonic shift we are currently witnessing.
+In some ways, an intern showing up and referring to Palantir is just another weird detail in the weirdest story I have ever researched.
+A weird but telling detail. Because it goes to the heart of why the story of Cambridge Analytica is one of the most profoundly unsettling of our time. What’s clear is that the power and dominance of the Silicon Valley – Google and Facebook and a small handful of others – are at the centre of the global tectonic shift we are currently witnessing.
 
 
 
@@ -214,7 +211,7 @@ The security work was to be the prize for the political work. Documents seen by 
 These documents throw light on a significant and under-reported aspect of the Trump administration. The company that helped Trump achieve power in the first place has now been awarded contracts in the Pentagon and the US state department. Its former vice-president Steve Bannon now sits in the White House. It is also reported to be in discussions for “military and homeland security work”.
 In the US, the government is bound by strict laws about what data it can collect on individuals. But, for private companies anything goes. Is it unreasonable to see in this the possible beginnings of an authoritarian surveillance state?
 A state that is bringing corporate interests into the heart of the administration. Documents detail Cambridge Analytica is involved with many other right-leaning billionaires, including Rupert Murdoch. One memo references Cambridge Analytica trying to place an article with a journalist in Murdoch’s Wall Street Journal: “RM re-channeled and connected with Jamie McCauley from Robert Thomson News Corp office,” it says.
-It makes me think again about the story involving Sophie Schmidt, Cambridge Analytica and Palantir. Is it a telling detail, or is it a clue to something else going on? Cambridge Analytica and Palantir both declined to comment for this article on whether they had any relationship. But witnesses and emails confirm that meetings between Cambridge Analytica and Palantir took place in 2013. The possibility of a working relationship was at least discussed.
+It makes me think again about the story involving the intern, Cambridge Analytica and Palantir. Is it a telling detail, or is it a clue to something else going on? Cambridge Analytica and Palantir both declined to comment for this article on whether they had any relationship. But witnesses and emails confirm that meetings between Cambridge Analytica and Palantir took place in 2013. The possibility of a working relationship was at least discussed.
 Further documents seen by the Observer confirm that at least one senior Palantir employee consulted with Cambridge Analytica in relation to the Trinidad project and later political work in the US. But at the time, I’m told, Palantir decided it was too much of a reputational risk for a more formal arrangement. There was no upside to it. Palantir is a company that is trusted to handle vast datasets on UK and US citizens for GCHQ and the NSA, as well as many other countries.
 Now though, they are both owned by ideologically aligned billionaires: Robert Mercer and Peter Thiel. The Trump campaign has said that Thiel helped it with data. A campaign that was led by Steve Bannon, who was then at Cambridge Analytica.
 A leading QC who spends a lot of time in the investigatory powers tribunal said that the problem with this technology was that it all depended on whose hands it was in.
@@ -382,5 +379,5 @@ Nigel FarageFormer Ukip leader. Leader of Leave.EU. Friend of Trump, Mercer and 
 Arron BanksBristol businessman. Co-founder of Leave.EU. Owns data company and insurance firm. Single biggest donor to Leave – £7.5m.
 Some names, ages and other identifying details of sources in this article have been changed
 
-This article was amended on 20 May 2017 to remove a reference to eBay. 
+This article was amended on 20 May 2017 to remove a reference to eBay and again on 15 June 2017 to remove some material following a legal threat.
 
