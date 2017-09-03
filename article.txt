@@ -34,7 +34,7 @@ Who’s her father?
 “Eric Schmidt.”
 Eric Schmidt – the chairman of Google?
 “Yes. And she suggested Alexander should meet this company called Palantir.”
-I had been speaking to former employees of Cambridge Analytica for months and heard dozens of hair-raising stories, but it was still a gobsmacking moment. To anyone concerned about surveillance, Palantir is practically now a trigger word. The data-mining firm has contracts with governments all over the world – including GCHQ and the NSA. It’s owned by Peter Thiel, the billionaire co-founder of eBay and PayPal, who became Silicon Valley’s first vocal supporter of Trump.
+I had been speaking to former employees of Cambridge Analytica for months and heard dozens of hair-raising stories, but it was still a gobsmacking moment. To anyone concerned about surveillance, Palantir is practically now a trigger word. The data-mining firm has contracts with governments all over the world – including GCHQ and the NSA. It’s owned by Peter Thiel, the billionaire co-founder of PayPal and major investor in Facebook, who became Silicon Valley’s first vocal supporter of Trump.
 In some ways, Eric Schmidt’s daughter showing up to make an introduction to Palantir is just another weird detail in the weirdest story I have ever researched.
 A weird but telling detail. Because it goes to the heart of why the story of Cambridge Analytica is one of the most profoundly unsettling of our time. Sophie Schmidt now works for another Silicon Valley megafirm: Uber. And what’s clear is that the power and dominance of the Silicon Valley – Google and Facebook and a small handful of others – are at the centre of the global tectonic shift we are currently witnessing.
 
@@ -382,3 +382,6 @@ Donald TrumpUS president. Campaign funded by Mercer and run by Bannon. Data serv
 Nigel FarageFormer Ukip leader. Leader of Leave.EU. Friend of Trump, Mercer and Bannon.
 Arron BanksBristol businessman. Co-founder of Leave.EU. Owns data company and insurance firm. Single biggest donor to Leave – £7.5m.
 Some names, ages and other identifying details of sources in this article have been changed
+
+This article was amended on 20 May 2017 to remove a reference to eBay. 
+
